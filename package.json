@@ -22,7 +22,7 @@
         "@typescript-eslint/parser": "^5.35.1",
         "@vercel/node": "^2.5.26",
         "eslint": "8.26.0",
-        "eslint-config-prettier": "^8.5.0",
+        "eslint-config-prettier": "^8.6.0",
         "eslint-plugin-import": "^2.26.0",
         "eslint-plugin-prettier": "^4.2.1",
         "prettier": "^2.7.1",
